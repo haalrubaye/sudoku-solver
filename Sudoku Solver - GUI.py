@@ -1,4 +1,8 @@
-# Use this to watch how the program solves the sudoku puzzle, no additional modules need to be installed.
+'''
+Use this to watch how the program solves the sudoku puzzle, no additional modules need to be installed.
+
+@author: Hassan
+'''
 
 import turtle
 import math
