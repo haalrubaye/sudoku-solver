@@ -2,7 +2,11 @@ import math
 import copy
 import time
 
-# Original basic terminal solver
+'''
+Original basic terminal solver
+
+@author: Hassan
+'''
 
 board = [['5', '3', ' ',
           '6', ' ', ' ',
